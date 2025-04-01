@@ -1,5 +1,5 @@
-# Kokoro text to speech tests
-> Explore a Python library for text to speech output
+# Kokoro speech demo
+> Explore the Kokoro Python library for text to speech output
 
 ## Links
 
@@ -21,6 +21,6 @@
 
 Recommended - use VS Code.
 
-Open one of the Jupyter notebooks in this project, select the virtualenv as the kernel and run the cells.
-
-Once audio is generated, you can click the play button.
+1. Open one of the Jupyter notebooks in this project, select the virtualenv as the kernel
+1. Run the cells.
+1. Once audio is generated, you can click the play button.
