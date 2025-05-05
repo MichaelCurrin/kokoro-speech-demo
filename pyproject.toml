@@ -4,7 +4,7 @@ package-mode = false
 [project]
 name = "kokoro-test"
 version = "0.1.0"
-description = ""
+description = "Explore the Kokoro Python library for text to speech output"
 authors = [
     { name = "Michael Currin", email = "18750745+MichaelCurrin@users.noreply.github.com" },
 ]
